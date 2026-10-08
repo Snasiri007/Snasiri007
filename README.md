@@ -1,8 +1,8 @@
 # Sadaf Nasiri
 
-IT Support professional building deeper hands-on experience in Microsoft endpoint administration, identity, PowerShell, and cloud technologies.
+I work in IT support and I’m building more hands-on experience with Microsoft endpoint administration, Entra ID, PowerShell, and cloud technologies.
 
-## Focus
+## What I’m working on
 
 - Windows endpoint administration
 - Microsoft Entra ID
@@ -12,22 +12,21 @@ IT Support professional building deeper hands-on experience in Microsoft endpoin
 - Microsoft Intune
 - Cloud administration
 
-## Current Project
+## Current project
 
 ### Microsoft Endpoint Administration Home Lab
 
-Hands-on lab covering Windows administration, Entra ID, MFA, sign-in and audit logs, RBAC, PowerShell, security troubleshooting, and endpoint management.
+I built this lab to practice the kind of work I want to keep growing into. So far, I’ve worked through Windows administration, Entra ID, MFA, sign-in and audit logs, RBAC, PowerShell, security troubleshooting, and endpoint management.
 
 [View the lab repository](https://github.com/Snasiri007/Microsoft-Endpoint-Administration-Home-Lab)
 
-Current lab direction:
-- Windows and identity administration
+Currently working on:
 - Intune device management
 - Endpoint security and compliance
-- Microsoft MD-102 preparation
+- MD-102 preparation
 - Building toward systems and cloud engineering
 
-## Career Direction
+## Career direction
 
 IT Support → Endpoint Administration → Systems / Azure → Cloud Engineering → Cloud Security
 
