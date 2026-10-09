@@ -1,8 +1,8 @@
 # Sadaf Nasiri
 
-I work in IT support and I’m building more hands-on experience with Microsoft endpoint administration, Entra ID, PowerShell, and cloud technologies.
+I work in IT support and I’m building more hands-on experience with Microsoft endpoint administration, Entra ID, PowerShell, troubleshooting, and cloud technologies.
 
-## What I’m working on
+## What I’m Working On
 
 - Windows endpoint administration
 - Microsoft Entra ID
@@ -12,21 +12,28 @@ I work in IT support and I’m building more hands-on experience with Microsoft 
 - Microsoft Intune
 - Cloud administration
 
-## Current project
+## Featured Projects
+
+### Enterprise IT Support Workflow Lab
+
+Hands-on Windows support lab covering device provisioning, troubleshooting, PowerShell automation, asset lifecycle management, knowledge base documentation, and software/hardware diagnostics.
+
+[View the Enterprise IT Support Workflow Lab](https://github.com/Snasiri007/Enterprise-IT-Support-Workflow-Lab)
 
 ### Microsoft Endpoint Administration Home Lab
 
-I built this lab to practice the kind of work I want to keep growing into. So far, I’ve worked through Windows administration, Entra ID, MFA, sign-in and audit logs, RBAC, PowerShell, security troubleshooting, and endpoint management.
+Hands-on lab focused on Windows administration, Microsoft Entra ID, identity and access management, PowerShell, security troubleshooting, and endpoint administration.
 
-[View the lab repository](https://github.com/Snasiri007/Microsoft-Endpoint-Administration-Home-Lab)
+[View the Microsoft Endpoint Administration Home Lab](https://github.com/Snasiri007/Microsoft-Endpoint-Administration-Home-Lab)
 
-Currently working on:
-- Intune device management
+Currently building toward:
+
+- Microsoft Intune device management
 - Endpoint security and compliance
-- MD-102 preparation
-- Building toward systems and cloud engineering
+- MD-102
+- Systems and Azure administration
 
-## Career direction
+## Career Direction
 
 IT Support → Endpoint Administration → Systems / Azure → Cloud Engineering → Cloud Security
 
