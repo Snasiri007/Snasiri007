@@ -26,12 +26,18 @@ Hands-on lab focused on Windows administration, Microsoft Entra ID, identity and
 
 [View the Microsoft Endpoint Administration Home Lab](https://github.com/Snasiri007/Microsoft-Endpoint-Administration-Home-Lab)
 
-Currently building toward:
+### Completed Hands-On Lab Work
 
-- Microsoft Intune device management
-- Endpoint security and compliance
-- MD-102
+- Microsoft Intune device enrollment and management
+- Windows compliance policies and endpoint security configuration
+- Configuration profile, application, and Windows Update Ring deployment
+- Microsoft Entra ID identity and access management
+
+### Currently Developing Skills
+
+- MD-102 (Endpoint Administrator) exam objectives
 - Systems and Azure administration
+- Cloud identity and security
 
 ## Career Direction
 
