@@ -44,6 +44,7 @@ Hands-on lab focused on Windows administration, Microsoft Entra ID, identity and
 - MD-102 (Endpoint Administrator) exam objectives
 - Systems and Azure administration
 - Cloud identity and security
+- PowerShell Endpoint Health & Compliance Auditor project (in progress)
 
 ## Career Direction
 
@@ -51,7 +52,7 @@ IT Support → Endpoint Administration → Systems / Azure → Cloud Engineering
 
 ## Technologies
 
-`Windows 11` · `Microsoft Entra ID` · `PowerShell` · `Microsoft 365` · `Intune` · `Identity & Access Management`
+`Windows 11` · `ServiceNow ITAM` · `CMDB` · `IT Asset Management` · `Microsoft Entra ID` · `PowerShell` · `Microsoft 365` · `Intune` · `Identity & Access Management`
 
 ## Location
 
