@@ -1,7 +1,6 @@
 # Sadaf Nasiri
 
-I work in IT support and I’m building more hands-on experience with Microsoft endpoint administration, Entra ID, PowerShell, troubleshooting, and cloud technologies.
-
+IT Support & Asset Management | ServiceNow ITAM | Microsoft Intune & Entra ID | PowerShell | Endpoint Administration
 ## Technical Skills & Hands-On Experience
 
 - Windows 11 endpoint administration
