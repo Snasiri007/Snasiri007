@@ -1,7 +1,13 @@
 # Sadaf Nasiri
 
 IT Support & Asset Management | ServiceNow ITAM | Microsoft Intune & Entra ID | PowerShell | Endpoint Administration
+## Professional ServiceNow Experience
+
+Used ServiceNow professionally in a previous IT role for **incident ticket management, service requests, and hardware asset management**. This workplace experience is separate from the independent ServiceNow ITAM lab featured below.
+
 ## Technical Skills & Hands-On Experience
+
+- ServiceNow incident tickets, service requests, and hardware asset management
 
 - Windows 11 endpoint administration
 - Microsoft Entra ID administration
