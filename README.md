@@ -14,6 +14,12 @@ IT Support & Asset Management | ServiceNow ITAM | Microsoft Intune & Entra ID | 
 
 ## Featured Projects
 
+### ServiceNow IT Asset Management | Operations & Compliance Lab
+
+Hands-on ServiceNow Personal Developer Instance project demonstrating hardware asset lifecycle management, CMDB reconciliation, data-quality exception reporting, and an ITAM operations dashboard. Includes five screenshots documenting the completed lab work.
+
+[View the ServiceNow ITAM Operations & Compliance Lab](https://github.com/Snasiri007/servicenow-itam-operations-lab)
+
 ### Enterprise IT Support Workflow Lab
 
 Hands-on Windows support lab covering device provisioning, troubleshooting, PowerShell automation, asset lifecycle management, knowledge base documentation, and software/hardware diagnostics.
